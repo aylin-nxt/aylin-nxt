@@ -3,9 +3,10 @@
 -->
 <div align="center">
 
-# Hi, I'm Aylin 👋
+<p align="center">
+  <img src="github-header-banner.png" alt="Aylin Banner" width="100%">
+</p>
 
-### AI Engineer
 
 </div>
 
