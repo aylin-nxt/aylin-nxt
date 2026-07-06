@@ -14,7 +14,7 @@
 
 # 🙋‍♀️ About Me
 
-I'm a Computer Engineering graduate with a passion for building practical AI solutions. 
+I'm a Computer Science graduate with a passion for building practical AI solutions. 
 
 My work focuses on **Machine Learning, Deep Learning, and Large Language Models (LLMs)**, with a growing interest in building production-ready AI systems. I enjoy taking ideas from concept to implementation and creating intelligent applications that make everyday work simpler, smarter, and more efficient.
 
@@ -58,6 +58,7 @@ Currently, I'm contributing to enterprise AI projects involving **Retrieval-Augm
 
 <br>
 
+<!--
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
@@ -68,7 +69,7 @@ Currently, I'm contributing to enterprise AI projects involving **Retrieval-Augm
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 
 </div>
-
+-->
 
 ---
 
