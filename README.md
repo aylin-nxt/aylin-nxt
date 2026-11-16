@@ -75,13 +75,14 @@ Currently, I'm contributing to enterprise AI projects involving **Retrieval-Augm
 
 # 🚀 Featured Projects
 
-| Project                                         | Description                                                                |
-| ----------------------------------------------- | -------------------------------------------------------------------------- |
-| 🤖 **Enterprise RAG Chatbot**                   | Production-oriented Retrieval-Augmented Generation chatbot *(In Progress)*                         |
-| 🩺 **Medical Information Extraction**           | Extracting structured medical information from physician transcripts using Large Language Models.  |
-| 🔍 **Information Retrieval System**             | Search engine based on classical Information Retrieval techniques                                  |
-| 🧠 **Disease Diagnosis using Machine Learning** | Evaluation and comparison of supervised machine learning models for disease diagnosis.             |
-| 📊 **Customer Transaction Analysis**            | Exploratory data analysis and predictive insights from customer transaction data.                  |
+| **Project** | **Description** |
+|---|---|
+| 🤖 **Enterprise RAG Chatbot** | Production-oriented Retrieval-Augmented Generation chatbot *(In Progress)* |
+| 🩺 **Medical Information Extraction** | Extracting structured medical information from physician transcripts using Large Language Models. |
+| 🔍 [**Information Retrieval System**](https://github.com/aylin-nxt/information-retrieval-system) | Search engine based on classical Information Retrieval techniques. |
+| 🧠 [**Disease Diagnosis using Machine Learning**](https://github.com/aylin-nxt/disease-diagnosis-ml) | Evaluation and comparison of supervised machine learning models for disease diagnosis. |
+| 📊 [**Customer Transaction Analysis**](https://github.com/aylin-nxt/customer-transactions-data-analysis) | Exploratory data analysis and predictive insights from customer transaction data.
+
 
 ---
 
